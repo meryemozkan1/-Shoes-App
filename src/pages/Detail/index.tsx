@@ -4,7 +4,7 @@ import { getShoe } from "../../api";
 import Loader from "../../components/Loader";
 import Error from "../../components/Error";
 import { Shoe } from "../../types";
-import Head from "./Head";
+import Head from "./head";
 import Color from "./color";
 import Size from "./size";
 import xss from "xss";
